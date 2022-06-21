@@ -40,7 +40,7 @@ a{
 }
 
 .caixa-li{
-    padding: 30px 30px 30px 12px;
+    padding: 40px 30px 30px 12px;
     color: #FFFFFF;
     font-size: 19px;
     justify-content: space-between;
@@ -51,12 +51,12 @@ a{
 }
 
 .pesquisa{
-    margin: 30px 30px 0 0;
+    margin: 40px 30px 0 0;
     height: 50px;
 }
 
 .pesquisa input{
-    background-image: url(lupa.png);
+    background-image: url(lupa2.png);
     background-size: 10%;
     background-repeat: no-repeat;
     background-position: 94%;
